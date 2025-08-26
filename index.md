@@ -14,3 +14,8 @@ int main(void)
   printf("Hello, World!\n");
 }
 ```
+
+- [x] find correct place for file edit in commits
+- [x] add marcdown for todo list
+- [ ] check for successfull merge 
+
